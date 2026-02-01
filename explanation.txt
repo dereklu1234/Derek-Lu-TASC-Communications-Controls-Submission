@@ -1,0 +1,4 @@
+I decided the type of data I would send is something that would come out of a sensor, specifically data of distance in meters from a sensor.
+The reason why I chose this is because I assume in a robotics system this is some of the most important and basic forms of data.
+I imagine in a complex robotics system this type of sensor distance data would be extremely common and one system would likely have many sensors which each contribute to overall coordination, navagation, and data gathering.
+Esspecially considering in a basic sense, the data of distance is for some sensors is the only data they can provide which means distance data contributes to almost all parts of a robotic systems decision making.
